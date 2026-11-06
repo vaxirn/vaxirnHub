@@ -1,8 +1,18 @@
 {
-    "LatestVersion": "1.0.1",
+    "LatestVersion": "1.1.0",
+    "ServerStatus": "Operational",
     "Changelog": [
-        "Yeni Aimbot prediction algoritmaları eklendi.",
-        "ESP renk uyumsuzlukları giderildi.",
-        "Performans iyileştirmeleri yapıldı."
+        {
+            "Type": "+",
+            "Text": "Yeni aimbot prediction algoritmaları ve optimizasyonlar eklendi."
+        },
+        {
+            "Type": "-",
+            "Text": "Eski ve artık çalışmayan executor hook fonksiyonları kaldırıldı."
+        },
+        {
+            "Type": "!",
+            "Text": "Güvenlik açıkları kapatıldı, mutlaka güncel sürümü kullanın."
+        }
     ]
 }
