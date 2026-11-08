@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://vaxirnhub.pages.dev'))()
+loadstring(game:HttpGet('https://vaxirnhub.pages.dev/?v=' .. os.time()))()
